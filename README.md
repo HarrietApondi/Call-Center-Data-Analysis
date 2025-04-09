@@ -48,4 +48,3 @@ Efficient call handling means happier customers and a stronger brand. This proje
 ## 📌 How to View the Report:
 You can download the `.pbix` file and open it in Power BI Desktop (free from Microsoft).
 
-![Dashboard Overview](Call-Center-Data-Analysis)
